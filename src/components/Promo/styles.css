@@ -1,0 +1,101 @@
+.promo-container {
+    width: 100%;
+    padding: 30px 0;
+}
+
+.promo-content {
+    width: 100%;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    padding: 0;
+}
+
+.promo-slide {
+    width: 100%;
+    margin: 0 auto;
+    max-width: 300px;
+    height: 450px;
+    overflow: hidden;
+    border-radius: 24px;
+}
+
+.promo-slide img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.slogan {
+    padding: 20px;
+    font-family: 'Cutoff Pro Bold', sans-serif;
+    background-color: rgba(0,0,0,0.1);
+    border-radius: 24px;
+}
+
+.slogan h1 {
+    text-align: start;
+    font-size: 50px;
+    color: #fff;
+}
+
+.slogan p {
+    color: #fff;
+    font-size: 20px;
+}
+
+.buy-button {
+    background: #ED6A5A;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 1rem;
+}
+
+.swiper-container {
+    width: 100%;
+}
+
+@media (max-width: 767px) {
+    .promo-container {
+        width: 80%;
+        margin: 0 auto;
+    }
+}
+
+@media (min-width: 768px) {
+    .promo-content {
+        width: 90%;
+        flex-direction: row;
+        justify-content: space-between;
+    }
+
+    .slogan {
+        width: 30%;
+    }
+
+    .swiper-container {
+        width: 65%;
+    }
+}
+
+@media  (max-width: 1330px) {
+    .slogan h1 {
+        font-size: 40px;
+    } 
+}
+
+@media  (max-width: 1102px) {
+    .slogan h1 {
+        font-size: 35px;
+    } 
+}
+
+@media (min-width: 1024px) {
+    .promo-content {
+        width: 80%;
+    }
+}

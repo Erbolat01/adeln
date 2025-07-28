@@ -1,0 +1,7 @@
+export * from './Header'
+export * from './Promo'
+export * from './Tabs'
+export * from './Discounts'
+export * from './Popular'
+export * from './New'
+export * from './Footer'
