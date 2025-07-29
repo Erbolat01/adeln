@@ -5,17 +5,17 @@ const App = () => {
   const items = [
   {
     key: '1',
-    label: 'Новинки',
+    label: 'Футболки',
     children: <New/>
   },
   {
     key: '2',
-    label: 'Скидки',
+    label: 'Рюкзаки',
     children: <Discounts/>,
   },
   {
     key: '3',
-    label: 'Популярные',
+    label: 'Лонгсливы',
     children: <Popular/>,
   },
 ]

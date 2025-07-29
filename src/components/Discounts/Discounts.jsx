@@ -1,10 +1,7 @@
 import React from 'react'
 import { Card } from 'components/Card'
-import backpack1 from 'assets/images/products/backpack1.jpg'
 import backpack2 from 'assets/images/products/backpack2.jpg'
 import backpack3 from 'assets/images/products/backpack3.jpg'
-import backpack4 from 'assets/images/products/backpack4.jpg'
-import backpack5 from 'assets/images/products/backpack5.jpg'
 import backpack6 from 'assets/images/products/backpack6.jpg'
 import backpack7 from 'assets/images/products/backpack7.jpg'
 import backpack8 from 'assets/images/products/backpack8.png'
@@ -25,16 +22,16 @@ const products = [
     {
         imageUrls: [backpack6],
         altText: 'backpack',
-        description: 'Рюкзак мужской городской для путешествий - это лучший выбор для людей, которые ценят комфорт и стиль. Наш функциональный черный рюкзак для ноутбука обеспечивает удобство в повседневной жизни, а также надежную защиту вещей во время путешествий. Рюкзак имеет красивый дизайн и отличную вместительность',
-        link: 'https://kaspi.kz/shop/p/rjukzak-shkol-nyi-rjukzak-dlja-noutbuka-sh45-poliester-oksford-chernyi-121761264/'
+        description: 'Детский рюкзак для мальчика или девочки от 2 до 6 лет — это стильный и яркий аксессуар, который станет отличным дополнением к образу вашего малыша. С таким рюкзаком ваш ребенок будет выглядеть модно и современно, а главное — чувствовать себя комфортно и удобно.',
+        link: 'https://kaspi.kz/shop/p/rjukzak-s-edinorogom-tekstil-rozovyi-114982694'
     },
     {
         imageUrls: [backpack7],
         altText: 'backpack',
-        description: 'Рюкзак мужской городской для путешествий - это лучший выбор для людей, которые ценят комфорт и стиль. Наш функциональный черный рюкзак для ноутбука обеспечивает удобство в повседневной жизни, а также надежную защиту вещей во время путешествий. Рюкзак имеет красивый дизайн и отличную вместительность',
-        link: 'https://kaspi.kz/shop/p/rjukzak-shkol-nyi-rjukzak-dlja-noutbuka-sh45-poliester-oksford-chernyi-121761264/'
+        description: 'Детский рюкзак для мальчика или девочки от 2 до 6 лет — это стильный и яркий аксессуар, который станет отличным дополнением к образу вашего малыша. С таким рюкзаком ваш ребенок будет выглядеть модно и современно, а главное — чувствовать себя комфортно и удобно.',
+        link: 'https://kaspi.kz/shop/p/rjukzak-s-mashinkami-tekstil-sinii-114982695'
     },
-   {
+    {
         imageUrls: [backpack8, backpack9, backpack10],
         altText: 'backpack',
         description: 'Рюкзак школьный для девочки для подростка выполнен из качественной непромокаемой ткани. Рюкзачок подходит для прогулок, тренировок, для школы и танцев.',
