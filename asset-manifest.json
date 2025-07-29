@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.39e9d408.css",
-    "main.js": "/static/js/main.3435312e.js",
+    "main.js": "/static/js/main.33423a9d.js",
     "static/media/backpack9.png": "/static/media/backpack9.ef727e49902647c07fc2.png",
     "static/media/backpack8.png": "/static/media/backpack8.43dc06d8310e6aa93e19.png",
     "static/media/backpack11.png": "/static/media/backpack11.b9392a1e70069a933101.png",
@@ -17,8 +17,6 @@
     "static/media/backpack3.jpg": "/static/media/backpack3.854a000f4b2f4e839313.jpg",
     "static/media/backpack2.jpg": "/static/media/backpack2.8e63e08173b2bf26295b.jpg",
     "static/media/long2.jpeg": "/static/media/long2.df2ec53753d0200c661c.jpeg",
-    "static/media/backpack4.jpg": "/static/media/backpack4.22086a0eb24aacf30250.jpg",
-    "static/media/backpack5.jpg": "/static/media/backpack5.613d74a6be53d9c5237b.jpg",
     "static/media/long1.jpeg": "/static/media/long1.164fe8858542e064971a.jpeg",
     "static/media/long4.jpeg": "/static/media/long4.737cb964ca58897109d8.jpeg",
     "static/media/CutoffPro.otf": "/static/media/CutoffPro.127a673baf6476968863.otf",
@@ -26,17 +24,16 @@
     "static/media/t-shirt1.jpg": "/static/media/t-shirt1.8cef67813797e0c3d3b5.jpg",
     "static/media/CutoffPro-BoldItalic.otf": "/static/media/CutoffPro-BoldItalic.f9a6cdc2f27640ecd044.otf",
     "static/media/CutoffPro-Italic.otf": "/static/media/CutoffPro-Italic.58129420c86f908a0a2f.otf",
-    "static/media/backpack1.jpg": "/static/media/backpack1.afa6680765a0a24e8b19.jpg",
     "static/media/promo_fourth.jpeg": "/static/media/promo_fourth.482068872e4794002b8c.jpeg",
     "static/media/promo_first.jpeg": "/static/media/promo_first.2537e399dad5f261d593.jpeg",
     "static/media/promo_third.jpeg": "/static/media/promo_third.3879e85e263d144af63c.jpeg",
     "static/media/promo_second.jpeg": "/static/media/promo_second.0f484412d030776f8047.jpeg",
     "index.html": "/index.html",
     "main.39e9d408.css.map": "/static/css/main.39e9d408.css.map",
-    "main.3435312e.js.map": "/static/js/main.3435312e.js.map"
+    "main.33423a9d.js.map": "/static/js/main.33423a9d.js.map"
   },
   "entrypoints": [
     "static/css/main.39e9d408.css",
-    "static/js/main.3435312e.js"
+    "static/js/main.33423a9d.js"
   ]
 }
